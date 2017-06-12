@@ -17,7 +17,7 @@ int main() {
     system("title SoundSkan");
   cout << "SoundSkan by Jasiek65"  << endl;
     cout << "Sprawdz do jakiej czestotliwosci slyszysz!" << endl;
-  cout << "==========================" << endl;
+  cout << "____________________________________" << endl;
     int min, max;
     int interwal;
   
