@@ -7,7 +7,7 @@ using namespace std;
 int main()
 {
     srand( (unsigned)time( NULL ) );
-    int liczba, los, max,i=0;
+    int liczba, los, max,i=2;
     cout<<"Podaj zakres : 0-";
     cin>>max;
     los=rand() % max;
